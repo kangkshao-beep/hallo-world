@@ -1,5 +1,5 @@
 # hallo-world
-学习github
+Learn github' s feature branch, and this branch called "feature"
 # 📘 Quantum Field Theory — Standard Contents
 
 ## I. Introduction and Foundations
